@@ -14,7 +14,7 @@ public class Game369 {
 				}
 			}
 				if(clap > 0){
-					System.out.print(s);
+					System.out.print(s + " ");
 					while(clap > 0){
 						System.out.print("짝");
 						clap--;
